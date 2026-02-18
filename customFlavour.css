@@ -260,7 +260,7 @@ a[data-role="button"]:hover {
     border-color: #be4141;
 }
 .mdl-spinner__layer-4 {
-    border-color: #dfeeea;
+    border-color: #ff6f6f;
 }
 
 /* Indicators */
@@ -387,7 +387,7 @@ a[data-role="button"]:hover {
 /* Text Colors */
 body,
 .emby-body {
-    color: #dfeeea;
+    color: #ff6f6f;
 }
 .secondary {
     color: #eeeeee;
@@ -427,7 +427,7 @@ body,
 }
 .sectionTabs .emby-tab-button:hover {
     background-color: rgba(47, 93, 98, 0.3);
-    color: #dfeeea;
+    color: #ff6f6f;
 }
 
 /* Links */
@@ -471,7 +471,7 @@ a:hover {
     color: #c03333;
 }
 .skip-button:hover {
-    background-color: #dfeeea;
+    background-color: #ff6f6f;
 }
 
 /* Now Playing Bar */
