@@ -162,7 +162,7 @@
 
 /* Up Next Dialog */
 .upNextDialog-countdownText {
-    color: #be4141;
+    color: #121212;
 }
 .upNextContainer {
     background: #c03333;
@@ -281,7 +281,7 @@ a[data-role="button"]:hover {
 
 /* Dialogs */
 .dialog {
-    background-color: #c03333;
+    background-color: #121212;
 }
 
 /* Playstate Buttons */
@@ -393,7 +393,7 @@ body,
     color: #eeeeee;
 }
 .listItemBodyText {
-    color: #f97c7c;
+    color: #eeeeee;
 }
 .listItemBodyText.secondary {
     color: #eeeeee;
@@ -505,7 +505,7 @@ a:hover {
 
 /* Change dialog background to primary theme color */
 .dialog {
-    background-color: #c03333;
+    background-color: #121212;
 }
 
 #popupTitleContainer {
