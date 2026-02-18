@@ -393,10 +393,10 @@ body,
     color: #be4141;
 }
 .listItemBodyText {
-    color: #dfeeea;
+    color: #c62828;
 }
 .listItemBodyText.secondary {
-    color: #be4141;
+    color: #eeeeee;
 }
 
 /* Borders */
