@@ -28,7 +28,7 @@
 }
 .button-submit {
     background: #c03333;
-    border-color: #5e8b7e;
+    border-color: #eeeeee;
 }
 .button-submit:hover {
     background: rgba(167, 196, 188, 0.8);
@@ -37,13 +37,13 @@
     background-color: #c03333;
 }
 .button-link {
-    color: #5e8b7e;
+    color: #eeeeee;
 }
 .button-flat:hover {
     color: #c03333;
 }
 .button-accent-flat {
-    color: #5e8b7e !important;
+    color: #eeeeee !important;
 }
 .raised.emby-button:hover {
     color: #c03333;
@@ -166,7 +166,7 @@
 }
 .upNextContainer {
     background: #c03333;
-    border-color: #5e8b7e;
+    border-color: #eeeeee;
 }
 
 /* Progress Bars */
@@ -254,7 +254,7 @@ a[data-role="button"]:hover {
     border-color: #c03333;
 }
 .mdl-spinner__layer-2 {
-    border-color: #5e8b7e;
+    border-color: #eeeeee;
 }
 .mdl-spinner__layer-3 {
     border-color: #c03333;
@@ -286,7 +286,7 @@ a[data-role="button"]:hover {
 
 /* Playstate Buttons */
 .playstatebutton-icon-played {
-    color: #5e8b7e;
+    color: #eeeeee;
 }
 .playstatebutton-icon-played:hover {
     color: #c03333;
@@ -366,10 +366,10 @@ a[data-role="button"]:hover {
 
 /* JSTree */
 .jstree-default .jstree-wholerow-clicked {
-    background: #5e8b7e !important;
+    background: #eeeeee !important;
 }
 .jstree-wholerow-hovered {
-    background: #5e8b7e !important;
+    background: #eeeeee !important;
 }
 .metadataSidebarIcon {
     color: #c03333;
@@ -432,10 +432,10 @@ body,
 
 /* Links */
 a {
-    color: #5e8b7e;
+    color: #eeeeee;
 }
 a:hover {
-    color: #c03333;
+    color: #eeeeee;
 }
 
 /* Highlight/Focus States */
@@ -456,7 +456,7 @@ a:hover {
 
 /* Radio Buttons */
 .mdl-radio__outer-circle {
-    border-color: #5e8b7e;
+    border-color: #eeeeee;
 }
 .mdl-radio__inner-circle {
     background-color: #c03333;
@@ -483,7 +483,7 @@ a:hover {
 .mainDrawer,
 .drawer-open {
     background-color: #c03333;
-    border-color: #5e8b7e;
+    border-color: #eeeeee;
 }
 
 /* Additional Focus States */
