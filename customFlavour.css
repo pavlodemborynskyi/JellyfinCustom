@@ -19,7 +19,7 @@
     border-color: #c03333;
 }
 .inputLabelFocused {
-    color: #be4141;
+    color: #c03333;
 }
 
 /* Buttons */
@@ -65,7 +65,7 @@
 /* Paper Icon Buttons */
 @media (hover: hover) and (pointer: fine) {
     .paper-icon-button-light:hover:not(:disabled) {
-        color: #be4141;
+        color: #c03333;
         background-color: rgba(47, 93, 98, 0.2);
     }
 }
@@ -102,7 +102,7 @@
     background-color: #004445;
 }
 .defaultCardBackground5 {
-    background-color: #be4141;
+    background-color: #c03333;
 }
 
 /* Navigation */
@@ -110,7 +110,7 @@
     background: rgba(223, 238, 234, 0.2);
 }
 .navMenuOption-selected {
-    background-color: #be4141 !important;
+    background-color: #c03333 !important;
 }
 
 /* Checkboxes */
@@ -121,7 +121,7 @@
     background-color: #c03333;
 }
 .emby-checkbox-label:hover {
-    color: #be4141;
+    color: #c03333;
 }
 .emby-checkbox:focus + span + .checkboxOutline {
     border-color: #0d7377;
@@ -135,21 +135,21 @@
 
 /* Sliders */
 .mdl-slider-background-lower {
-    background-color: #be4141;
+    background-color: #c03333;
 }
 .mdl-slider::-moz-range-thumb {
-    background: #be4141;
+    background: #c03333;
 }
 .mdl-slider::-ms-thumb {
-    background: #be4141;
+    background: #c03333;
 }
 .mdl-slider::-webkit-slider-thumb {
-    background: #be4141;
+    background: #c03333;
 }
 
 /* Video OSD */
 .iconOsdProgressInner {
-    background: #be4141;
+    background: #c03333;
 }
 .videoOsdBottom {
     background: rgba(0, 0, 0, 0.7);
@@ -157,7 +157,7 @@
     background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)) !important;
 }
 .volume_off {
-    color: #be4141 !important;
+    color: #c03333 !important;
 }
 
 /* Up Next Dialog */
@@ -213,7 +213,7 @@ progress::-webkit-progress-value {
 
 /* Progress Ring Spinner */
 .progressring-spiner {
-    border-color: #be4141;
+    border-color: #c03333;
 }
 
 /* Swiper Theme */
@@ -257,7 +257,7 @@ a[data-role="button"]:hover {
     border-color: #5e8b7e;
 }
 .mdl-spinner__layer-3 {
-    border-color: #be4141;
+    border-color: #c03333;
 }
 .mdl-spinner__layer-4 {
     border-color: #ff6f6f;
@@ -273,10 +273,10 @@ a[data-role="button"]:hover {
 
 /* Text Buttons */
 .textActionButton:hover {
-    color: #be4141 !important;
+    color: #c03333 !important;
 }
 .sectionTitleTextButton:hover {
-    color: #be4141 !important;
+    color: #c03333 !important;
 }
 
 /* Dialogs */
@@ -299,7 +299,7 @@ a[data-role="button"]:hover {
 
 /* Stats Labels */
 .playerStats-stat-label {
-    color: #be4141 !important;
+    color: #c03333 !important;
 }
 
 /* Selection Panels */
@@ -340,7 +340,7 @@ a[data-role="button"]:hover {
 .sessionCardFooter.cardFooter,
 .visualCardBox-cardFooter {
     color: #c03333;
-    background: #be4141;
+    background: #c03333;
 }
 .innerCardFooter.fullInnerCardFooter.innerCardFooterClear {
     background: rgba(0, 0, 0, 0.7);
@@ -414,7 +414,7 @@ body,
     border-bottom-color: #c03333 !important;
 }
 .emby-tab-button:hover {
-    color: #be4141;
+    color: #c03333;
 }
 
 /* Section Tabs */
@@ -423,7 +423,7 @@ body,
     color: #fff !important;
 }
 .sectionTabs .emby-tab-button {
-    color: #be4141;
+    color: #c03333;
 }
 .sectionTabs .emby-tab-button:hover {
     background-color: rgba(47, 93, 98, 0.3);
@@ -435,7 +435,7 @@ a {
     color: #5e8b7e;
 }
 a:hover {
-    color: #be4141;
+    color: #c03333;
 }
 
 /* Highlight/Focus States */
@@ -467,7 +467,7 @@ a:hover {
 
 /* Skip Button */
 .skip-button {
-    background-color: #be4141;
+    background-color: #c03333;
     color: #c03333;
 }
 .skip-button:hover {
@@ -495,7 +495,7 @@ a:hover {
 }
 /* Make sliderMarkerContainer the same color as video position slider */
 .sliderMarker {
-    background-color: #be4141 !important;
+    background-color: #c03333 !important;
 }
 
 /* Change favorite button to bright red */
