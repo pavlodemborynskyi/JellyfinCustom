@@ -19,7 +19,7 @@
     border-color: #c03333;
 }
 .inputLabelFocused {
-    color: #a7c4bc;
+    color: #be4141;
 }
 
 /* Buttons */
@@ -65,7 +65,7 @@
 /* Paper Icon Buttons */
 @media (hover: hover) and (pointer: fine) {
     .paper-icon-button-light:hover:not(:disabled) {
-        color: #a7c4bc;
+        color: #be4141;
         background-color: rgba(47, 93, 98, 0.2);
     }
 }
@@ -102,7 +102,7 @@
     background-color: #004445;
 }
 .defaultCardBackground5 {
-    background-color: #a7c4bc;
+    background-color: #be4141;
 }
 
 /* Navigation */
@@ -110,7 +110,7 @@
     background: rgba(223, 238, 234, 0.2);
 }
 .navMenuOption-selected {
-    background-color: #a7c4bc !important;
+    background-color: #be4141 !important;
 }
 
 /* Checkboxes */
@@ -121,7 +121,7 @@
     background-color: #c03333;
 }
 .emby-checkbox-label:hover {
-    color: #a7c4bc;
+    color: #be4141;
 }
 .emby-checkbox:focus + span + .checkboxOutline {
     border-color: #0d7377;
@@ -135,21 +135,21 @@
 
 /* Sliders */
 .mdl-slider-background-lower {
-    background-color: #a7c4bc;
+    background-color: #be4141;
 }
 .mdl-slider::-moz-range-thumb {
-    background: #a7c4bc;
+    background: #be4141;
 }
 .mdl-slider::-ms-thumb {
-    background: #a7c4bc;
+    background: #be4141;
 }
 .mdl-slider::-webkit-slider-thumb {
-    background: #a7c4bc;
+    background: #be4141;
 }
 
 /* Video OSD */
 .iconOsdProgressInner {
-    background: #a7c4bc;
+    background: #be4141;
 }
 .videoOsdBottom {
     background: rgba(0, 0, 0, 0.7);
@@ -157,12 +157,12 @@
     background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)) !important;
 }
 .volume_off {
-    color: #a7c4bc !important;
+    color: #be4141 !important;
 }
 
 /* Up Next Dialog */
 .upNextDialog-countdownText {
-    color: #a7c4bc;
+    color: #be4141;
 }
 .upNextContainer {
     background: #c03333;
@@ -213,7 +213,7 @@ progress::-webkit-progress-value {
 
 /* Progress Ring Spinner */
 .progressring-spiner {
-    border-color: #a7c4bc;
+    border-color: #be4141;
 }
 
 /* Swiper Theme */
@@ -257,7 +257,7 @@ a[data-role="button"]:hover {
     border-color: #5e8b7e;
 }
 .mdl-spinner__layer-3 {
-    border-color: #a7c4bc;
+    border-color: #be4141;
 }
 .mdl-spinner__layer-4 {
     border-color: #dfeeea;
@@ -273,10 +273,10 @@ a[data-role="button"]:hover {
 
 /* Text Buttons */
 .textActionButton:hover {
-    color: #a7c4bc !important;
+    color: #be4141 !important;
 }
 .sectionTitleTextButton:hover {
-    color: #a7c4bc !important;
+    color: #be4141 !important;
 }
 
 /* Dialogs */
@@ -299,7 +299,7 @@ a[data-role="button"]:hover {
 
 /* Stats Labels */
 .playerStats-stat-label {
-    color: #a7c4bc !important;
+    color: #be4141 !important;
 }
 
 /* Selection Panels */
@@ -340,7 +340,7 @@ a[data-role="button"]:hover {
 .sessionCardFooter.cardFooter,
 .visualCardBox-cardFooter {
     color: #c03333;
-    background: #a7c4bc;
+    background: #be4141;
 }
 .innerCardFooter.fullInnerCardFooter.innerCardFooterClear {
     background: rgba(0, 0, 0, 0.7);
@@ -356,7 +356,7 @@ a[data-role="button"]:hover {
 /* Slider Bubble */
 .sliderBubble {
     color: #c03333;
-    background: #a7c4bc;
+    background: #be4141;
 }
 
 /* Subtitle Sync */
@@ -390,13 +390,13 @@ body,
     color: #dfeeea;
 }
 .secondary {
-    color: #a7c4bc;
+    color: #be4141;
 }
 .listItemBodyText {
     color: #dfeeea;
 }
 .listItemBodyText.secondary {
-    color: #a7c4bc;
+    color: #be4141;
 }
 
 /* Borders */
@@ -414,7 +414,7 @@ body,
     border-bottom-color: #c03333 !important;
 }
 .emby-tab-button:hover {
-    color: #a7c4bc;
+    color: #be4141;
 }
 
 /* Section Tabs */
@@ -423,7 +423,7 @@ body,
     color: #fff !important;
 }
 .sectionTabs .emby-tab-button {
-    color: #a7c4bc;
+    color: #be4141;
 }
 .sectionTabs .emby-tab-button:hover {
     background-color: rgba(47, 93, 98, 0.3);
@@ -435,7 +435,7 @@ a {
     color: #5e8b7e;
 }
 a:hover {
-    color: #a7c4bc;
+    color: #be4141;
 }
 
 /* Highlight/Focus States */
@@ -467,7 +467,7 @@ a:hover {
 
 /* Skip Button */
 .skip-button {
-    background-color: #a7c4bc;
+    background-color: #be4141;
     color: #c03333;
 }
 .skip-button:hover {
@@ -495,7 +495,7 @@ a:hover {
 }
 /* Make sliderMarkerContainer the same color as video position slider */
 .sliderMarker {
-    background-color: #a7c4bc !important;
+    background-color: #be4141 !important;
 }
 
 /* Change favorite button to bright red */
